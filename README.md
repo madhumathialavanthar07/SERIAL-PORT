@@ -44,7 +44,6 @@ while(1);
 ```
 ### OUTPUT:
 <img width="693" height="462" alt="mpmc seriel port" src="https://github.com/user-attachments/assets/e829d693-59a4-4c36-9892-66c3b2b30134" />
-
 ![serial port 2](https://github.com/user-attachments/assets/1fdfae3e-6b3e-4c57-8294-c6f63ca6c988)
 
 ### RESULT:
