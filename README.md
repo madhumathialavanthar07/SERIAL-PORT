@@ -42,7 +42,8 @@ while(1);
 
 ### OUTPUT:
 <img width="693" height="462" alt="mpmc seriel port" src="https://github.com/user-attachments/assets/e829d693-59a4-4c36-9892-66c3b2b30134" />
-![WhatsApp Image 2025-11-11 at 11 42 20_a204615e](https://github.com/user-attachments/assets/01fc92e5-b4b0-42f1-ae18-da1073a9f565)
+
+![serial port 2](https://github.com/user-attachments/assets/1fdfae3e-6b3e-4c57-8294-c6f63ca6c988)
 
 ### RESULT:
 Thus the Serial transfer of Single Byte / Character using 8051 KEIL was done and shown the output.
